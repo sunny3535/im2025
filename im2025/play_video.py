@@ -1,6 +1,6 @@
 # 모든 영상 함수 하나로 재생하기
 
-!pip install ffmpeg-python
+# !pip install ffmpeg-python
 
 # ffmpeg : 다양한 멀티미디어 작업을 수행할 수 있는 오픈 소스
 # ffmpeg-python : 파이썬에서 사용할 수 있게 만든 파이썬 래퍼(wrapper)
